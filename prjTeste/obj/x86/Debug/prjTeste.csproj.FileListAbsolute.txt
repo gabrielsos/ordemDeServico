@@ -1,0 +1,379 @@
+C:\Users\freddy\Desktop\prjTeste\prjTeste\bin\Debug\prjTeste.exe
+C:\Users\freddy\Desktop\prjTeste\prjTeste\bin\Debug\prjTeste.pdb
+C:\Users\freddy\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+C:\Users\freddy\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.Form1.resources
+C:\Users\freddy\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+C:\Users\freddy\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+C:\Users\freddy\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.exe
+C:\Users\freddy\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.pdb
+P:\Freddy\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.exe
+P:\Freddy\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.pdb
+P:\Freddy\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\bin\Debug\prjTeste.exe
+P:\Freddy\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\bin\Debug\prjTeste.pdb
+P:\Freddy\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+P:\Freddy\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.Form1.resources
+P:\Freddy\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+P:\Freddy\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+P:\Freddy\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+P:\Freddy\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+P:\Freddy\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+P:\Freddy\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.Form2.resources
+P:\Freddy\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+P:\Freddy\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+P:\Freddy\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.Form3.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\bin\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\bin\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.Form1.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.Form2.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.Form3.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\bin\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\bin\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.Form1.resources
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.Form2.resources
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.Form3.resources
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+C:\Users\CPD.ETECAF\Desktop\prjTeste\prjTeste\obj\x86\Debug\prjTeste.Form4.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste1\prjTeste\obj\x86\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\0 - Suporte para Estudos\prjTeste1\prjTeste\obj\x86\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\obj\x86\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\obj\x86\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\bin\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\bin\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\obj\x86\Debug\prjTeste.cadastrarUsuario.resources
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\obj\x86\Debug\prjTeste.Form3.resources
+C:\Users\CPD.ETECAF\Desktop\prjTeste1\prjTeste\obj\x86\Debug\prjTeste.Form4.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\bin\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\bin\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.cadastrarUsuario.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.Form3.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.Form4.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\bin\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\bin\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.cadastrarUsuario.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.Form3.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.Form4.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+C:\Users\CPD.ETECAF\Desktop\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\bin\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\bin\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.cadastrarUsuario.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.Form3.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.Form4.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\bin\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\bin\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.cadastrarUsuario.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.Form3.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.Form4.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+C:\Users\CPD.ETECAF\Desktop\prjTesteV3.0\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\bin\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\bin\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.cadastrarUsuario.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.Form3.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.Form4.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\bin\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\bin\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.novaOs.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.cadastrarUsuario.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.Form3.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.Form4.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+C:\Users\CPD.ETECAF\Desktop\prjTesteV4.0\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.novaOs.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.cadastrarUsuario.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.Form3.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.Form4.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\bin\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\bin\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV5.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\bin\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\bin\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.login.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.novaOs.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.cadastrarUsuario.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.Form3.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.Form4.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+C:\Users\CPD.ETECAF\Desktop\prjTesteV5.0\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV7.0\prjTeste\obj\x86\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\CPD\prjTesteV7.0\prjTeste\obj\x86\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\obj\x86\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\obj\x86\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\obj\x86\Debug\prjTeste.login.resources
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\bin\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\bin\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\obj\x86\Debug\prjTeste.novaOsExterna.resources
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\obj\x86\Debug\prjTeste.novaOsInterna.resources
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV7.0\prjTeste\obj\x86\Debug\prjTeste.gerenciarOs.resources
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\bin\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\bin\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.gerenciarOs.resources
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.login.resources
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.novaOsExterna.resources
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.novaOsInterna.resources
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+Z:\2019\_ESTAGIÁRIOS\Comum\1_SistemaOS\Sistema\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.gerenciarOs.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.login.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.novaOsExterna.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.novaOsInterna.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\bin\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\bin\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTesteV1.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\bin\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\bin\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.gerenciarOs.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.login.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.novaOsExterna.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.novaOsInterna.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.alterarOs.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.novoRegistro.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV2.0\prjTeste\obj\x86\Debug\prjTeste.registro.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\obj\x86\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\obj\x86\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\bin\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\bin\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\obj\x86\Debug\prjTeste.alterarOs.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\obj\x86\Debug\prjTeste.gerenciarOs.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\obj\x86\Debug\prjTeste.login.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\obj\x86\Debug\prjTeste.novaOsExterna.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\obj\x86\Debug\prjTeste.novaOsInterna.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\obj\x86\Debug\prjTeste.novoRegistro.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\obj\x86\Debug\prjTeste.registro.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\bin\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\bin\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.alterarOs.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.gerenciarOs.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.login.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.novaOsExterna.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.novaOsInterna.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.novoRegistro.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.registro.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV8.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\bin\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\bin\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.alterarOs.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.gerenciarOs.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.login.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.novaOsExterna.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.novaOsInterna.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.novoRegistro.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.registro.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\bin\Debug\prjTeste.exe
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\bin\Debug\prjTeste.pdb
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.alterarOs.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.gerenciarOs.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.login.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.novaOsExterna.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.novaOsInterna.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.novoRegistro.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.registro.resources
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+C:\Users\CPD.ETECAF\Desktop\prjTesteV9.0 - Cópia\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\bin\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\bin\Debug\prjTeste.pdb
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\bin\Debug\C1.Win.C1Input.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.dll
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\bin\Debug\C1.Win.C1Input.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\bin\Debug\C1.Win.C1Ribbon.4.xml
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.csprojResolveAssemblyReference.cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.alterarOs.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.gerenciarOs.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.login.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.novaOsExterna.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.novaOsInterna.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.novoRegistro.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.principal.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.Properties.Resources.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.registro.resources
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.csproj.GenerateResource.Cache
+Z:\2019\_ESTAGIÁRIOS\Gabriel\ProjetoOS\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.exe.licenses
+Z:\2019\_ESTAGIÁRIOS\Da Hora\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.exe
+Z:\2019\_ESTAGIÁRIOS\Da Hora\prjTesteV10\prjTeste\obj\x86\Debug\prjTeste.pdb
